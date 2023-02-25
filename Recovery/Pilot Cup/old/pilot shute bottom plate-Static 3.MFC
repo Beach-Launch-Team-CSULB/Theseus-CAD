@@ -1,0 +1,16 @@
+[StartTime]
+pilot shute bottom plate-Static 3.MFC=1s
+[SolverState]
+pilot shute bottom plate-Static 3.MFC=2
+[MainFrame]
+pilot shute bottom plate-Static 3.MFC=MCAAAAAAAAAAAAAABAAAAAAAPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPBKCAAAAAMKBAAAAAJAEAAAAAPHCAAAAA
+[ShowMin]
+pilot shute bottom plate-Static 3.MFC=No
+[SolverType]
+pilot shute bottom plate-Static 3.MFC=Linear Analysis
+[StudyType]
+pilot shute bottom plate-Static 3.MFC=0
+[StudyName]
+pilot shute bottom plate-Static 3.MFC=Static 3
+[Solver]
+pilot shute bottom plate-Static 3.MFC=Iterative
